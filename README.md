@@ -9,13 +9,15 @@ O Banco de dados Data_Chair possui informações nutricionais sobre os produtos 
 ##Fontes:
 ###Nutrição 
 
-- [Starbucks]: (https://www.starbucks.co.uk/quick-links%2Fnutrition-info)
-- [Mc Donalds]: (https://www.kaggle.com/mcdonalds/nutrition-facts)
-- [Burguer King]: (http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/documents/F171_AF_TABELA_NUTRICIONAL_C4_42X29_7_1407.pdf)
+- [Starbucks](https://www.starbucks.co.uk/quick-links%2Fnutrition-info)
+- [Mc Donalds](https://www.kaggle.com/mcdonalds/nutrition-facts)
+- [Burguer King](http://bk-latam-prod.s3.amazonaws.com/sites/burgerking.com.br/files/documents/F171_AF_TABELA_NUTRICIONAL_C4_42X29_7_1407.pdf)
 
 ###Localização
 
-- [Starbucks]: (https://www.kaggle.com/starbucks/store-locations)
-- [Mc Donalds(sample)]: (https://data-lists.com/mcdonalds/)
-- [Burguer King(sample)]: (https://www.aggdata.com/aggdata/complete-list-burger-king-locations )(https://www.scrapehero.com/store/product/burger-king-store-locations-in-the-usa/)
+- [Starbucks](https://www.kaggle.com/starbucks/store-locations)
+- [Mc Donalds(sample)](https://data-lists.com/mcdonalds/)
+- [Burguer King(sample)^[1]](https://www.aggdata.com/aggdata/complete-list-burger-king-locations)
+- [Burguer King(sample)^[2]](https://www.scrapehero.com/store/product/burger-king-store-locations-in-the-usa/)
 
+[GitHub](http://github.com)
