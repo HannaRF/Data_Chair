@@ -35,4 +35,4 @@ O Banco de dados Data_Chair possui informações nutricionais sobre os produtos 
 |   id_product  |     INT     |         identificador exclusivo do produto         |   product  |
 |      name     | VARCHAR(45) |                   nome do produto                  |   product  |
 |  id_category  |     INT     |   identificador exclusivo da categoria do produto  |  category  |
-|      name     | VARCHAR(45) |                  nome da categoria                 |  category  |
+| serving size  |     INT     |            tamanho das porções do produto          |  category  |
