@@ -1,6 +1,6 @@
 # Data_Chair
 
-## Autores: Ari, Hanna Rodrigues, Lívia Cereja e Luiz
+## Autores: Ari Guilherme Gomes de Oliveira, Hanna Rodrigues Ferreira, Lívia Cereja Meinhardt e Luiz
 
 ### Projeto para a disciplina de modelagem e uso de banco de dados da EMAP FGV ministrada pelo professor Renato Rocha Souza.
 
