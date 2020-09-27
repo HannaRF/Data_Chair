@@ -47,6 +47,6 @@ O Banco de dados Data_Chair possui informações nutricionais sobre os produtos 
 |     dietary fibre    |  INT |                      fibra alimentar (g)                     | nutricional units |
 |        sugars        |  INT |                           açúcares                           | nutricional units |
 |        protein       |  INT |                           proteínas                          | nutricional units |
-|       vitamin a      |  INT |           vitamina A (porcentagem do valor diário)           | nutricional units |
-|       vitamin c      |  INT |           vitamina C (porcentagem do valor diário)           | nutricional units |
+|       vitamin a      |  INT |           vitamina A (% do valor diário)           | nutricional units |
+|       vitamin c      |  INT |           vitamina C (% do valor diário)           | nutricional units |
 |        calcium       |  INT |                          cálcio (g)                          | nutricional units |
