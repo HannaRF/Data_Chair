@@ -36,3 +36,17 @@ O Banco de dados Data_Chair possui informações nutricionais sobre os produtos 
 |      name     | VARCHAR(45) |                   nome do produto                  |   product  |
 |  id_category  |     INT     |   identificador exclusivo da categoria do produto  |  category  |
 | serving size  |     INT     |            tamanho das porções do produto          |  category  |
+| id_nutricional_units |  INT | identificador exclusivo das unidades nutricionais do produto | nutricional units |
+|       calories       |  INT |                        calorias (kcal)                       | nutricional units |
+|       total fat      |  INT |                      gorduras totais (g)                     | nutricional units |
+|     saturated fat    |  INT |                     gordura saturada (g)                     | nutricional units |
+|       trans fat      |  INT |                       gordura trans (g)                      | nutricional units |
+|      cholesterol     |  INT |                        colesterol (g)                        | nutricional units |
+|        sodium        |  INT |                          sódio (mg)                          | nutricional units |
+|     carbohydrates    |  INT |                       carboidratos (g)                       | nutricional units |
+|     dietary fibre    |  INT |                      fibra alimentar (g)                     | nutricional units |
+|        sugars        |  INT |                           açúcares                           | nutricional units |
+|        protein       |  INT |                           proteínas                          | nutricional units |
+|       vitamin a      |  INT |           vitamina A (porcentagem do valor diário)           | nutricional units |
+|       vitamin c      |  INT |           vitamina C (porcentagem do valor diário)           | nutricional units |
+|        calcium       |  INT |                          cálcio (g)                          | nutricional units |
