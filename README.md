@@ -1,6 +1,6 @@
 # Data_Chair
 
-## Autores: Ari Guilherme Gomes de Oliveira, Hanna Rodrigues Ferreira, Lívia Cereja Meinhardt e Luiz
+### Autores: Ari Guilherme Gomes de Oliveira, Hanna Rodrigues Ferreira, Lívia Cereja Meinhardt e Luiz
 
 ### Projeto para a disciplina de modelagem e uso de banco de dados da EMAP FGV ministrada pelo professor Renato Rocha Souza.
 
@@ -35,7 +35,7 @@ O Banco de dados Data_Chair possui informações nutricionais sobre os produtos 
 |   id_product  |     INT     |         identificador exclusivo do produto         |   product  |
 |      name     | VARCHAR(45) |                   nome do produto                  |   product  |
 |  id_category  |     INT     |   identificador exclusivo da categoria do produto  |  category  |
-| serving size  |     INT     |            tamanho das porções do produto          |  category  |
+| serving size  |     INT     |        tamanho das porções do produto(g/ml)        |  category  |
 | id_nutricional_units |  INT | identificador exclusivo das unidades nutricionais do produto | nutricional units |
 |       calories       |  INT |                        calorias (kcal)                       | nutricional units |
 |       total fat      |  INT |                      gorduras totais (g)                     | nutricional units |
