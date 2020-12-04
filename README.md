@@ -1,6 +1,8 @@
 # Graph of Fast Food Chains
 
-#### Autores: Ari Guilherme Gomes de Oliveira, Hanna Rodrigues Ferreira, Lívia Cereja Meinhardt, Luiz e Gustavo Rozas
+#### construção do banco MYSQL: Ari Guilherme Gomes de Oliveira, Hanna Rodrigues Ferreira, Lívia Cereja Meinhardt e Luiz 
+
+#### implementação do grafo: Hanna Rodrigues Ferreira
 
 #### Projeto para a disciplina de modelagem e uso de banco de dados da EMAP FGV ministrada pelo professor Renato Rocha Souza.
 
