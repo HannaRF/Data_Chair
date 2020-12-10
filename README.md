@@ -1,12 +1,14 @@
 # Graph of Fast Food Chains
 
-#### construção do banco MYSQL: Ari Guilherme Gomes de Oliveira, Hanna Rodrigues Ferreira, Lívia Cereja Meinhardt e Luiz 
+#### Projeto para a disciplina de modelagem e uso de banco de dados da EMAP FGV ministrada pelo professor Renato Rocha Souza.
 
 #### implementação do grafo: Hanna Rodrigues Ferreira
 
-#### Projeto para a disciplina de modelagem e uso de banco de dados da EMAP FGV ministrada pelo professor Renato Rocha Souza.
+O notebook possui o tratamento dos dados contidos no dump do banco de dados fast_food. ...
 
-O Banco de dados fast_food possui informações nutricionais sobre os produtos e localização das redes de restaurantes de grandes multinacionais de fast-food da atualidade. Os dados foram coletados dos sites das próprias empresas e de Banco de Dados auxiliares.
+#### construção do banco MYSQL: Ari Guilherme Gomes de Oliveira, Hanna Rodrigues Ferreira, Lívia Cereja Meinhardt e Luiz Fernando Souza
+
+O banco de dados fast_food possui informações nutricionais sobre os produtos e localização das redes de restaurantes Starbucks, Mc Donalds e Burguer King. Os dados foram coletados dos sites das próprias empresas e de banco de dados auxiliares.
 
 ### Fontes:
 #### Nutrição 
